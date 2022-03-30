@@ -4,6 +4,7 @@ description: Instructions for preparing end of term portfolios. Portfolios shoul
   include all essay drafts, homework assignments, and journals.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-2-the-creative-spark-fall-2004/16d5e6976e17f348ae3783983b93c044_portfolios.pdf
 file_type: application/pdf
+parent_uid: bc95e690-5ceb-0919-503e-cc37d34ee356
 resourcetype: Document
 title: portfolios.pdf
 uid: 16d5e697-6e17-f348-ae37-83983b93c044

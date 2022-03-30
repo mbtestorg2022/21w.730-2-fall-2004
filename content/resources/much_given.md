@@ -4,6 +4,7 @@ description: A student's final draft for the Essay II assignment. Sample student
   courtesy of Michelle Aquing. Used with permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-2-the-creative-spark-fall-2004/9646088f0d26544fab8d64f9d1246629_much_given.pdf
 file_type: application/pdf
+parent_uid: bc95e690-5ceb-0919-503e-cc37d34ee356
 resourcetype: Document
 title: much_given.pdf
 uid: 9646088f-0d26-544f-ab8d-64f9d1246629

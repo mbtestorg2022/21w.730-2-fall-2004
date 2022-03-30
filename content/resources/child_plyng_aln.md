@@ -4,6 +4,7 @@ description: A student's final draft for the Essay I assignment. Sample student 
   courtesy of Eleojo Ocholi. Used with permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-2-the-creative-spark-fall-2004/3a4b7983df2cf6152834861722fc135a_child_plyng_aln.pdf
 file_type: application/pdf
+parent_uid: bc95e690-5ceb-0919-503e-cc37d34ee356
 resourcetype: Document
 title: child_plyng_aln.pdf
 uid: 3a4b7983-df2c-f615-2834-861722fc135a

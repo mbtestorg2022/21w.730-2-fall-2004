@@ -4,6 +4,7 @@ description: Instructions for essay revision and deadline for the oral presentat
   proposal.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-2-the-creative-spark-fall-2004/92f6f1c7f583ee62c9ff763c5be732ec_hw_18_and_19.pdf
 file_type: application/pdf
+parent_uid: bc95e690-5ceb-0919-503e-cc37d34ee356
 resourcetype: Document
 title: hw_18_and_19.pdf
 uid: 92f6f1c7-f583-ee62-c9ff-763c5be732ec
